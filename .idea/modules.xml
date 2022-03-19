@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Developer In Test - Jan 2022.iml" filepath="$PROJECT_DIR$/Developer In Test - Jan 2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - AccessModifiers &amp; Encapsulation/M1 - AccessModifiers &amp; Encapsulation.iml" filepath="$PROJECT_DIR$/M1 - AccessModifiers &amp; Encapsulation/M1 - AccessModifiers &amp; Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - Classes &amp; Objects/M1 - Classes &amp; Objects.iml" filepath="$PROJECT_DIR$/M1 - Classes &amp; Objects/M1 - Classes &amp; Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - Collections/M1 - Collections.iml" filepath="$PROJECT_DIR$/M1 - Collections/M1 - Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - DataTypes &amp; Operators/M1 - DataTypes &amp; Operators.iml" filepath="$PROJECT_DIR$/M1 - DataTypes &amp; Operators/M1 - DataTypes &amp; Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - Exception Handling/M1 - Exception Handling.iml" filepath="$PROJECT_DIR$/M1 - Exception Handling/M1 - Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - File Handling/M1 - File Handling.iml" filepath="$PROJECT_DIR$/M1 - File Handling/M1 - File Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - FlowControl &amp; Arrays/M1 - FlowControl &amp; Arrays.iml" filepath="$PROJECT_DIR$/M1 - FlowControl &amp; Arrays/M1 - FlowControl &amp; Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - JUnit/M1 - JUnit.iml" filepath="$PROJECT_DIR$/M1 - JUnit/M1 - JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - Object Oriented Programming/M1 - Object Oriented Programming.iml" filepath="$PROJECT_DIR$/M1 - Object Oriented Programming/M1 - Object Oriented Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - String Classes/M1 - String Classes.iml" filepath="$PROJECT_DIR$/M1 - String Classes/M1 - String Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - Structure of a Class/M1 - Structure of a Class.iml" filepath="$PROJECT_DIR$/M1 - Structure of a Class/M1 - Structure of a Class.iml" />
+    </modules>
+  </component>
+</project>

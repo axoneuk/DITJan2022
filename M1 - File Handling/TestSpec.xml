@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><XML>
+
+    <Test>
+        <ID>101</ID>
+        <Browser>Opera</Browser>
+    </Test>
+
+    <Test>
+        <ID>93489348</ID>
+        <Browser>Internet Explorer</Browser>
+    </Test>
+
+    <Test>
+        <ID>103</ID>
+        <Browser>Safari</Browser>
+    </Test>
+
+</XML>
